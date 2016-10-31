@@ -21,8 +21,3 @@ var len = newArr.length;
 removeDuplicates(newArr);
 alert(newArr);
  
-function table() {
-    var userInput = Number(prompt("enter a number"));
-    for (var i = 0; i < 10; i + userInput);
-    
-}
